@@ -1,4 +1,4 @@
-### Hi there I'm Rivaldo, a 20 yo student from Ambon, Indonesia with major of Software Engineering 👋
+### Hi there👋
 
 Here are some ideas to get you started:
  
