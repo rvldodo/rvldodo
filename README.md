@@ -1,4 +1,5 @@
 ### Hi there👋
+This is my second github account, the first one i already deleted because personal reason
 
 Here are some ideas to get you started:
  
