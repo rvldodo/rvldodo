@@ -1,8 +1,8 @@
-#  🏀 Rivaldo Ardika Lawalata
+# 🏀 Rivaldo Ardika Lawalata
 
 **`Web Developer`**
 
-I am a full-stack web developer base in Indonesia and open to new technologies and challenges. All projects and repositories are build for learning purposes to solve a real live problem in this industry.
+I am a back-end web developer base in Indonesia and open to new technologies and challenges. All projects and repositories are build for learning purposes to solve a real live problem in this industry.
 
 <p align="left">
     <a href="https://www.instagram.com/rvldodo_/">
@@ -35,12 +35,20 @@ I am a full-stack web developer base in Indonesia and open to new technologies a
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 <img align="left" alt="TailwindCSS" width="30px" style="padding-right:10px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img align="left" alt="TailwindCSS" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
+          
 <br />
 
 #
 
 ### ⚡️ Stats
 
-![Rivaldo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rvldodo&show_icons=true&theme=radical)
+  <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rvldodo&layout=cobalt)](https://github.com/rvldodo/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=rvldodo&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&bg_color=1F221E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=rvldodo&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F221E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+<br/>
+
+  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=rvldodo&bg_color=1F221E&color=F8D826&line=F45D7F&point=FFFFFF&hide_border=true" /></a>
