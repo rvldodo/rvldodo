@@ -49,7 +49,7 @@ I am a back-end web developer base in Indonesia and open to new technologies and
 <img align="left" alt="Google Cloud" width="30px" src="https://www.svgrepo.com/show/353805/google-cloud.svg" style="padding-right: 10px;"/>
 
 </div>
-<div/>
+</div>
 
 ### ⚡️ Stats
 
