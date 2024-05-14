@@ -41,6 +41,11 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg
   src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg" 
 />
 <img align="left" alt="Golang" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
+<img align="left" alt="Neovim" width="30px" style="padding-right:10px" src="https://www.svgrepo.com/show/354105/neovim.svg" />
+<img align="left" alt="AWS S3" width="30px" style="padding-right:10px" src="https://www.svgrepo.com/show/448270/aws-s3.svg" />
+<img align="left" alt="Docker" width="30px" style="padding-right:10px" src="https://www.svgrepo.com/show/448221/docker.svg" />
+<img align="left" alt="Firebase" width="30px" style="padding-right:10px" src="https://www.svgrepo.com/show/373595/firebase.svg" />
+<img align="left" alt="Google Cloud" width="30px" style="padding-right:10px" src="https://www.svgrepo.com/show/353805/google-cloud.svg" />
           
 <br />
 
