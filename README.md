@@ -51,6 +51,8 @@ I am a back-end web developer base in Indonesia and open to new technologies and
 </div>
 </div>
 
+---
+
 ### ⚡️ Stats
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
