@@ -38,7 +38,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg
   alt="TailwindCSS" 
   width="30px" 
   style="padding-right:10px;" 
-  src="https://github.com/devicons/devicon/tree/v2.16.0/icons/tailwindcss/tailwindcss-plain.svg" 
+  src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg" 
 />
 <img align="left" alt="Golang" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
           
