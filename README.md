@@ -1,6 +1,6 @@
 # 🏀 Rivaldo Ardika Lawalata
 
-**`Web Developer`**
+**`Backend Developer`**
 
 I am a back-end web developer base in Indonesia and open to new technologies and challenges. All projects and repositories are build for learning purposes to solve a real live problem in this industry.
 
@@ -31,11 +31,16 @@ I am a back-end web developer base in Indonesia and open to new technologies and
 <img align="left" alt="Sequelize" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
 <img align="left" alt="Postgres" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-<img align="left" alt="TailwindCSS" width="30px" style="padding-right:10px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-<img align="left" alt="TailwindCSS" width="30px" style="padding-right:10px"
+<img align="left" alt="MySQL" width="30px" style="padding-right:10px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img align="left" alt="TailwindCSS" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
+<img 
+  align="left" 
+  alt="TailwindCSS" 
+  width="30px" 
+  style="padding-right:10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" 
+/>
+<img align="left" alt="Golang" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
           
 <br />
 
@@ -51,4 +56,4 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg
 
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=rvldodo&bg_color=1F221E&color=F8D826&line=F45D7F&point=FFFFFF&hide_border=true" /></a>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rvldodo&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
