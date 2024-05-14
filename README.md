@@ -19,7 +19,7 @@ I am a back-end web developer base in Indonesia and open to new technologies and
 
 ### 🛠️ Languages and Tools
 
-<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 10px;">
+<!-- <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 10px;"> -->
 
 <img align="left" alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right: 10px;"/>
 <img align="left" alt="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" style="padding-right: 10px;"/>
@@ -37,8 +37,8 @@ I am a back-end web developer base in Indonesia and open to new technologies and
 <img align="left" alt="TailwindCSS" width="30px" src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg" style="padding-right: 10px;"/>
 <img align="left" alt="Golang" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" style="padding-right: 10px;"/>
 
-</div>
-<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 10px;">
+<!-- </div> -->
+<!-- <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 10px;"> -->
 
 <img align="left" alt="Neovim" width="30px" src="https://www.svgrepo.com/show/354105/neovim.svg" style="padding-right: 10px;"/>
 <img align="left" alt="AWS S3" width="30px" src="https://www.svgrepo.com/show/448270/aws-s3.svg" style="padding-right: 10px;"/>
@@ -46,9 +46,7 @@ I am a back-end web developer base in Indonesia and open to new technologies and
 <img align="left" alt="Firebase" width="30px" src="https://www.svgrepo.com/show/373595/firebase.svg" style="padding-right: 10px;"/>
 <img align="left" alt="Google Cloud" width="30px" src="https://www.svgrepo.com/show/353805/google-cloud.svg" style="padding-right: 10px;"/>
 
-</div>
-
----
+<!-- </div> -->
 
 ### ⚡️ Stats
 
