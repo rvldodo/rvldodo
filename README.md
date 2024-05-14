@@ -38,7 +38,6 @@ I am a back-end web developer base in Indonesia and open to new technologies and
 <img align="left" alt="Golang" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" style="padding-right: 10px;"/>
 
 </div>
-<br />
 <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 10px;">
 
 <img align="left" alt="Neovim" width="30px" src="https://www.svgrepo.com/show/354105/neovim.svg" style="padding-right: 10px;"/>
@@ -48,10 +47,8 @@ I am a back-end web developer base in Indonesia and open to new technologies and
 <img align="left" alt="Google Cloud" width="30px" src="https://www.svgrepo.com/show/353805/google-cloud.svg" style="padding-right: 10px;"/>
 
 </div>
-          
-<br />
 
-#
+---
 
 ### ⚡️ Stats
 
