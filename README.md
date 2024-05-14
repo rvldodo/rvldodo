@@ -19,7 +19,7 @@ I am a back-end web developer based in Indonesia and open to new technologies an
 
 ### 🛠️ Languages and Tools
 
-<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 10px;">
+<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 1rem;">
     <img alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right: 10px;"/>
     <img alt="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" style="padding-right: 10px;"/>
     <img alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right: 10px;"/>
