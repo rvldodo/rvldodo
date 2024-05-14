@@ -36,6 +36,11 @@ I am a back-end web developer base in Indonesia and open to new technologies and
 <img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right: 10px;"/>
 <img align="left" alt="TailwindCSS" width="30px" src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg" style="padding-right: 10px;"/>
 <img align="left" alt="Golang" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" style="padding-right: 10px;"/>
+
+</div>
+<br />
+<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 10px;">
+
 <img align="left" alt="Neovim" width="30px" src="https://www.svgrepo.com/show/354105/neovim.svg" style="padding-right: 10px;"/>
 <img align="left" alt="AWS S3" width="30px" src="https://www.svgrepo.com/show/448270/aws-s3.svg" style="padding-right: 10px;"/>
 <img align="left" alt="Docker" width="30px" src="https://www.svgrepo.com/show/448221/docker.svg" style="padding-right: 10px;"/>
