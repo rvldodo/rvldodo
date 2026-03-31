@@ -52,12 +52,17 @@
 *Dynamic stats showing my latest activity and language distribution.*
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rvldodo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="185" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rvldodo&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="185" />
+<img src="https://img.shields.io/badge/Main%20Languages-Go%2C%20TypeScript%2C%20Node.js-blue?style=flat-square&logo=github" />
+<img src="https://img.shields.io/badge/Experience-Backend%20Engineer-orange?style=flat-square&logo=go" />
+<img src="https://img.shields.io/badge/Core%20Tools-Neovim%2C%20Docker%2C%20AWS-lightgrey?style=flat-square&logo=neovim" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rvldodo&theme=tokyonight&no-frame=true&row=1&column=6&cache_seconds=1800" />
+<img src="https://metrics.lecoq.io/rvldodo?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&habits=1&habits.charts=1&config.timezone=Asia/Jakarta" width="100%" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rvldodo&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </p>
 
 ---
